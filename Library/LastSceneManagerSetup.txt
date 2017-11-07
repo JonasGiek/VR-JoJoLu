@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Ball_in_space.unity
+- path: Assets/sceneSphere.unity
   isLoaded: 1
   isActive: 1
